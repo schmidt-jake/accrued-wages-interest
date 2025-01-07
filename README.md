@@ -41,5 +41,5 @@ See [derivation.ipynb](derivation.ipynb) for the full theory workup and plotting
 ## Takeaways
 
 - Ha, this was fun!
-- Try to work slightly less towards the start of your pay period than towards the end, due to the extra discounting factor. Lol.
+- Try to work slightly less towards the start of your pay period than towards the end, due to the discounting factor diminishing over time. Lol.
 - Negotiate to get paid more frequently? 🤷‍♀️

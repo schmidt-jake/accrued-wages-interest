@@ -2,7 +2,7 @@
 
 > "Accrued wages interest" refers to the interest that has accumulated on unpaid wages, essentially meaning the interest earned on the amount of money a company owes to its employees for work already performed but not yet paid out; it's considered an accrued expense in accounting, where the interest is recorded as a liability until the wages are paid... **In most cases, companies do not accrue interest on unpaid wages as the timeframe for payment is usually short** and interest charges are not typically applied to employee salaries — Google Gemini (emphasis mine)
 
-So, accrued wage interest is too small to matter. But this is also a brilliant opportunity to leverage math and programming to critique capitalism.
+So, accrued wage interest is too small to matter. But this is also a brilliant opportunity to leverage math and programming to critique capitalism. So let's wayyyy overthink this.
 
 ## Problem Formulation
 
